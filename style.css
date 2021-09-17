@@ -58,6 +58,7 @@ body {
 }
 
 /* MOBILE MENU */
+
 /*
 .hidden {
   display: none;
@@ -102,6 +103,7 @@ body {
   right: 4rem;
 }
 */
+
 /* MOBILE MENU END */
 
 .logo {
@@ -639,7 +641,7 @@ body {
   }
 
   /* POPUP MEDIA END */
- 
+
   .card {
     display: flex;
     flex-direction: row;
@@ -725,6 +727,7 @@ body {
     align-self: flex-end;
   }
 }
+
 /*
 @media screen and (min-width: 1200px) {
   html {
@@ -736,7 +739,7 @@ body {
   html {
     font-size: 75%;
   }
-}*/
+} */
 
 @media screen and (min-width: 500px) {
   .card-tags {
@@ -746,6 +749,7 @@ body {
     bottom: 8px;
   }
 }
+
 /*
 @media screen and (min-width: 2100px) {
   html {
