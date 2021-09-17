@@ -4,7 +4,8 @@ The project is inspired by the figma microverse template 1 (https://figma.com/)
 For this portfolio website, I implemented a popup window that includes the project details in both desktop and mobile. In order to do that, I store the information about the different projects in a JavaScript object.
 
 
-![screenshot](./image/mobdemo.PNG)
+![screenshot](./img/screenshot1.png)
+![screenshot](./img/screenshot2.png)
 
  
 
