@@ -57,9 +57,7 @@ body {
   padding: 0 3.6rem;
 }
 
-/* MOBILE MENU */
-
-/*
+/* MOBILE MENU
 .hidden {
   display: none;
 }
@@ -102,9 +100,8 @@ body {
   top: 4rem;
   right: 4rem;
 }
-*/
 
-/* MOBILE MENU END */
+ MOBILE MENU END */
 
 .logo {
   font-size: 1.8rem;
@@ -516,7 +513,7 @@ body {
   background-color: #fff;
 }
 
-@media only screen and (min-width:) {
+@media only screen and (max-width: 900px) {
   html {
     font-size: 50%;
   }
@@ -641,7 +638,6 @@ body {
   }
 
   /* POPUP MEDIA END */
-
   .card {
     display: flex;
     flex-direction: row;
@@ -751,6 +747,7 @@ body {
 }
 
 /*
+
 @media screen and (min-width: 2100px) {
   html {
     font-size: 81.25%;
@@ -762,4 +759,5 @@ body {
     font-size: 87.5%;
   }
 }
+
 */
