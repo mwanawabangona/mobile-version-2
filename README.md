@@ -10,14 +10,12 @@ For this portfolio website, I implemented a popup window that includes the proje
 
 ## Live Demo
 
-[Live Demo Link](https://mwanawabangona.github.io/mobile-portfolio/)
+[Live Demo Link](https://mwanawabangona.github.io/mobile-version-2/)
  
 ## Built With
 
 - HTML
 - CSS
-- Javascript
-- Bootstrap 
 - HTML&CSS Linter
 
 ## Get Started
@@ -27,11 +25,10 @@ To get a local copy up and running follow these simple steps.
 
 Run the command below from the Terminal:
 
-      git clone <URL> 'https://github.com/mwanawabangona/mobile-portfolio' in your terminal
+      git clone <URL> 'https://github.com/mwanawabangona/mobile-version-2' in your terminal
 
-	  cd microverse_portfolio
+	  cd mobile_portfolio
 
-	  start index.html
 
 
 
@@ -49,7 +46,7 @@ Run the command below from the Terminal:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/mwanawabangona/mobile-portfolio/issues).
+Feel free to check the [issues page](https://github.com/mwanawabangona/mobile-version-2/issues).
 
 ## Show your support
 
@@ -58,8 +55,6 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Thanks to Microverse and my Coding Partners
-- Paka OLIPLICHE
-- Yannick codecaiine
 
 ## 📝 License
 
