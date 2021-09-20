@@ -294,11 +294,11 @@ body {
   color: #344563;
 }
 
-.card-tags {
-  display: flex;
+.card-tags li {
+  float: left;
   gap: 0.8rem;
-  position: relative;
   bottom: 1px;
+  
 }
 
 .card-tags li {
