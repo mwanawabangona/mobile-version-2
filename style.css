@@ -428,6 +428,7 @@ body {
 }
 
 .heading-tertiary {
+  z-index: 1;
   font-size: 4rem;
   font-weight: 700;
   color: #fff;
