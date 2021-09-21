@@ -4,8 +4,8 @@ The project is inspired by the figma microverse template 1 (https://figma.com/)
 For this portfolio website, I implemented Html And Css that includes the project details in mobile.
 
 
-![screenshot](./img/Screenshot1.png)
-![screenshot](./img/Screenshot2.png)
+![screenshot](./img/Capture.PNG)
+![screenshot](./img/new.PNG)
 
  
 
@@ -37,10 +37,20 @@ Run the command below from the Terminal:
 
 👤 **Ellis**
 
+
+
 - Location: Zambia
 - GitHub: [@mwnanawabangona](https://github.com/mwanawabangona)
 - Twitter: [@Ellis_aah](https://twitter.com/Ellis-aah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/)
+
+👤 **Eloi Ntazama**
+
+- Location: Burundi
+- GitHub: [@ntazelo](https://github.com/ntazelo)
+- Twitter: [@NtazamaE](https://twitter.com/NtazamaE
+)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eloi-ntazama-a14219214/)
 
 
 ## 🤝 Contributing
