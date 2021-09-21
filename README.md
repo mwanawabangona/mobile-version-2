@@ -5,7 +5,7 @@ For this portfolio website, I implemented Html And Css that includes the project
 
 
 ![screenshot](./img/Capture.PNG)
-![screenshot](./img/Cap2.PNG)
+![screenshot](./img/new.PNG)
 
  
 
