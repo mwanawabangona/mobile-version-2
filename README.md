@@ -4,8 +4,8 @@ The project is inspired by the figma microverse template 1 (https://figma.com/)
 For this portfolio website, I implemented Html And Css that includes the project details in mobile.
 
 
-![screenshot](./img/Capture.png)
-![screenshot](./img/Cap2.png)
+![screenshot](./img/Capture.PNG)
+![screenshot](./img/Cap2.PNG)
 
  
 
