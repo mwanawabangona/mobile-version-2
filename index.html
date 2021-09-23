@@ -24,6 +24,60 @@
   </head>
 
   <body>
+    <!-- POPUP BEGINNING PAIR PROGRAMMING-->
+    <div class="popup-overlay hidden" id="popup">
+      <div class="card popup desk">
+        <div class="card-content desk">
+          <img
+            src="images/section-work/popupClose-icon.svg"
+            alt="close-overlay"
+            class="popup-close-btn"
+          />
+          <h2 class="heading-secondary desk" id="name">Tonic</h2>
+          <ul class="card-info desk">
+            <li id="companyName">CANOPY</li>
+            <li>
+              <img src="images/section-work/Counter.svg" alt="dot" class="card-info-dot"/>
+            </li>
+            <li class="input-text" id="job">Back End Dev</li>
+            <li>
+              <img
+                src="images/section-work/Counter.svg"
+                alt="dot"
+                class="card-info-dot"
+              />
+            </li>
+            <li class="input-text" id="data">2015</li>
+          </ul>
+          <img
+            class="card-img desk"
+            id="img"
+            src="images/section-work/snapshoot4.png"
+            alt="Tonic"
+          />
+          <div class="desk-pop">
+            <div class="first">
+              <p class="text-secondary mob desk" id="description"></p>
+            </div>
+            <div class="second">
+              <ul class="card-tags desk" id="tags"></ul>
+              <div class="line"></div>
+              <div class="popup-button desk">
+                <a href="#" class="button btn-element desk"
+                  >See Live
+                  <img src="images/section-work/Live-icon.svg" alt="live"
+                /></a>
+                <a href="#" class="button btn-element desk"
+                  >See Source
+                  <img src="images/section-work/Github-icon.svg" alt="git"
+                /></a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- POPUP END -->
 
     <nav class="navigation">
       <p class="logo">My Logo</p>
@@ -34,6 +88,18 @@
         <li><a href="#contact">Contact</a></li>
       </ul>
     </nav>
+
+    <div class="overlay hidden">
+      <button type="button" class="close-overlay close-menu">
+        <img src="images/close-overlay.svg" alt="close-overlay" />
+      </button>
+
+      <ul class="sections-list">
+        <li><a href="#work" class="option">Portfolio</a></li>
+        <li><a href="#about" class="option">About</a></li>
+        <li><a href="#contact" class="option">Contact</a></li>
+      </ul>
+    </div>
 
     <header class="header">
       <div class="header-text">
@@ -67,7 +133,7 @@
       </div>
     </header>
 
-    <section class="grid-container" id="work">
+    <section class="work" id="work">
       <div class="card card-1">
         <img
           class="card-img popup-img"
@@ -249,8 +315,6 @@
             hestiate to contact me.
           </p>
           <a href="#" class="connect-btn">LET'S CONNECT</a>
-
-          <div class="grid-container1">
           <ul class="social-icons">
             <li>
               <a href="#"><img src="./images/Twitter.svg" alt="Twitter" /></a>
@@ -293,7 +357,6 @@
               <li><img src="images/section-about/css.png" alt="css" />CSS</li>
             </ul>
           </div>
-        </div>
           <div class="list-box">
             <div class="list-btn">
               Frameworks
@@ -328,7 +391,7 @@
         id="contact-form"
         method="POST"
         class="contact-form"
-        action="https://formspree.io/f/xzbyayegk"
+        action="https://formspree.io/f/xzbyaeyk"
       >
         <ul>
           <li>
@@ -379,6 +442,7 @@
         </ul>
       </form>
     </section>
-  
+
+    <script src="main.js"></script>
   </body>
 </html>
