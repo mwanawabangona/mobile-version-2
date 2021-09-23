@@ -5,7 +5,7 @@ For this portfolio website, I implemented Html And Css that includes the project
 
 
 ![screenshot](./img/Capture.PNG)
-![screenshot](./img/new.PNG)
+![screenshot](./img/cap12.PNG)
 
  
 
@@ -28,7 +28,7 @@ Run the command below from the Terminal:
 
       git clone <URL> 'https://github.com/mwanawabangona/mobile-version-2' in your terminal
 
-	  cd mobile_portfolio
+	  cd desktop_branch
 
 
 
@@ -43,15 +43,6 @@ Run the command below from the Terminal:
 - GitHub: [@mwnanawabangona](https://github.com/mwanawabangona)
 - Twitter: [@Ellis_aah](https://twitter.com/Ellis-aah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/)
-
-👤 **Eloi Ntazama**
-
-- Location: Burundi
-- GitHub: [@ntazelo](https://github.com/ntazelo)
-- Twitter: [@NtazamaE](https://twitter.com/NtazamaE
-)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eloi-ntazama-a14219214/)
-
 
 ## 🤝 Contributing
 
