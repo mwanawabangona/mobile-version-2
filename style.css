@@ -522,6 +522,7 @@ body {
   }
 
   .header {
+    background-image: url(images/header-shapes-mobile.svg);
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: unset;
