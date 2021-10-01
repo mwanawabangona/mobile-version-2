@@ -13,7 +13,7 @@ For this portfolio website, I implemented Html And Css that includes the project
 
 [Live Demo Link](https://mwanawabangona.github.io/mobile-version-2/)
  
-## Built With
+## Built With the following
 
 - HTML
 - CSS
@@ -43,6 +43,16 @@ Run the command below from the Terminal:
 - GitHub: [@mwnanawabangona](https://github.com/mwanawabangona)
 - Twitter: [@Ellis_aah](https://twitter.com/Ellis-aah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/)
+
+## Authors
+
+👤 **Eloi Ntazama**
+
+- Location: Burundi
+- GitHub: [@ntazelo](https://github.com/ntazelo)
+- Twitter: [@NtazamaE](https://twitter.com/NtazamaE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eloi-ntazama-a14219214/)
+
 
 ## 🤝 Contributing
 
