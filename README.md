@@ -56,6 +56,15 @@ Run the command below from the Terminal:
 - Twitter: [@Milan](https://twitter.com/Ellis-aah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/)
 
+## Authors
+
+👤 **Eloi Ntazama**
+
+- Location: Burundi
+- GitHub: [@ntazelo](https://github.com/ntazelo)
+- Twitter: [@NtazamaE](https://twitter.com/NtazamaE)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eloi-ntazama-a14219214/)
+
 
 ## 🤝 Contributing
 
