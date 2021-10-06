@@ -37,8 +37,6 @@ Run the command below from the Terminal:
 
 👤 **Ellis**
 
-
-
 - Location: Zambia
 - GitHub: [@mwnanawabangona](https://github.com/mwanawabangona)
 - Twitter: [@Ellis_aah](https://twitter.com/Ellis-aah)
