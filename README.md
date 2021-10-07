@@ -37,11 +37,23 @@ Run the command below from the Terminal:
 
 👤 **Ellis**
 
-
-
 - Location: Zambia
 - GitHub: [@mwnanawabangona](https://github.com/mwanawabangona)
 - Twitter: [@Ellis_aah](https://twitter.com/Ellis-aah)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/)
+
+👤 **Farouk**
+
+- Location: Egypt
+- GitHub: [@farouqdaif1](https://github.com/farouqdaif1)
+- Twitter: [@Farouqdaif](https://twitter.com/farouqdaif)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/farouqdaif/)
+
+👤 **Milan**
+
+- Location: Serbia
+- GitHub: [@mprotic123](https://github.com/mprotic123)
+- Twitter: [@Milan](https://twitter.com/Ellis-aah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/)
 
 ## Authors
