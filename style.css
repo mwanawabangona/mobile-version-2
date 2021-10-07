@@ -19,13 +19,15 @@ body {
 
 .button {
   display: inline-block;
-  font-size: 1.7rem;
+  font-size: 114%;
   text-decoration: none;
   color: #396df2;
   border: 0.1rem solid #6070ff;
   border-radius: 0.8rem;
-  padding: 1.2rem;
+  padding: 0.8rem;
   transition: all 0.3s;
+  position: relative;
+  top: 18px;
 }
 
 .button:hover {
@@ -189,6 +191,7 @@ body {
   width: 58%;
   transform: translate(-50%, -50%);
   z-index: 100;
+  height: 72%;
 }
 
 .text-secondary.mob {
