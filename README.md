@@ -55,7 +55,7 @@ Run the command below from the Terminal:
 - GitHub: [@mprotic123](https://github.com/mprotic123)
 - Twitter: [@Milan](https://twitter.com/Ellis-aah)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/)
-=======
+
 ## Authors
 
 👤 **Eloi Ntazama**
