@@ -21,7 +21,7 @@ for (let i = 0; i < options.length; i += 1) {
 const data = {
   project1: {
     name: 'Tonic',
-    img: 'img/img1.png',
+    img: 'img/snip.png',
     companyName: 'CANOPY',
     job: 'Back End Dev',
     year: 2015,
@@ -32,7 +32,7 @@ const data = {
 
   project2: {
     name: 'Multi-Post Stories',
-    img: 'img/img2.png',
+    img: 'https://github.com/mwanawabangona/Math-magician/raw/full-website/img/screenshot.png',
     companyName: 'FACEBOOK',
     job: 'Full Stack Dev',
     year: 2015,
@@ -43,7 +43,7 @@ const data = {
 
   project3: {
     name: 'Facebook 360',
-    img: 'img/img3.png',
+    img: 'img/nba.png',
     companyName: 'FACEBOOK',
     job: 'Full Stack Dev',
     year: 2015,
@@ -53,7 +53,7 @@ const data = {
   },
   project4: {
     name: 'Uber Navigation',
-    img: 'img/img4.png',
+    img: 'https://github.com/Kingjosh007/space-travelers-hub/raw/master/screenshots/app.gif',
     companyName: 'Uber',
     job: 'Lead Developer',
     year: 2018,
@@ -77,6 +77,7 @@ const button4 = document.querySelector('#btn-4');
 const btnClosePop = document.querySelector('.popup-close-btn');
 const popupOverlay = document.querySelector('.popup-overlay');
 const popup = document.getElementById('popup');
+const live_link = document.querySelector('.live-link');
 
 function openPopUp() {
   popup.classList.remove('hidden');
@@ -108,21 +109,25 @@ function closePopUp() {
 button1.addEventListener('click', () => {
   openPopUp();
   changePopup(1);
+  live_link.setAttribute('href', 'https://quirky-hamilton-73201b.netlify.app/');
 });
 
 button2.addEventListener('click', () => {
   openPopUp();
   changePopup(2);
+  live_link.setAttribute('href', 'https://mwanawabangona.github.io/Math-magician/');
 });
 
 button3.addEventListener('click', () => {
   openPopUp();
   changePopup(3);
+  live_link.setAttribute('href', 'https://mwanawabangona.github.io/capstone/index.html');
 });
 
 button4.addEventListener('click', () => {
   openPopUp();
   changePopup(4);
+  live_link.setAttribute('href', 'https://space-travelers-hub-1.netlify.app/');
 });
 
 popupOverlay.addEventListener('click', closePopUp);
