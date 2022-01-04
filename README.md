@@ -17,7 +17,9 @@ For this portfolio website, I implemented Html And Css that includes the project
 
 - HTML
 - CSS
-- HTML&CSS Linter
+- HTML&CSS 
+- Linter
+- JavaScript
 
 ## Get Started
 
